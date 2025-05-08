@@ -63,8 +63,8 @@ Proyek ini adalah kumpulan latihan pemrograman berorientasi objek (OOP) dalam ba
    - Input data kursus dan user, lakukan pendaftaran kursus.
 
 ## Kontributor
-- Nama: [Nama Anda]
-- NIM: [NIM Anda]
+- Nama: ABDUL RAHMAN   
+- NIM : 2110031806044
 
 ---
 
